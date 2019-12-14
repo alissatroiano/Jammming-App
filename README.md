@@ -36,5 +36,5 @@ In order to properly complete this project, the following React skills were util
 10. Obtain a Spotify Access Token
 11. Implement Spotify Search Request
 12. Save a User's Playlist
-Step 13 (Deploy) is an optional step that will be refined and included in the next commit for this project.
+Step 13 (Deploy) is an optional step that has been successfully implemented & included in this build
 
