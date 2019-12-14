@@ -2,8 +2,8 @@
 Jammming is a web-based application that allows users to search for songs, create new playlists, edit the playlist titles and upload the playlists to their personal Spotify accounts.
 
 # Authors
-Project: Codecademy.com
-This Project Build: Alissa Troiano
+- Project: Codecademy.com
+- This Project Build: Alissa Troiano
 
 # Overview
 This application was built with React as a project for Codecademy.com's Intensive Front-End Web Developer course.
