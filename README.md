@@ -1,16 +1,22 @@
 # Jammming Spotify Playlist App
-Jammming is a web-based application that allows users to search for songs, create new playlists, edit the playlist titles and upload the playlists to their personal Spotify accounts.
+Jammming is a web-based app that allows users to search for songs, create new playlists, edit the playlist titles and upload the playlists to their personal Spotify accounts.
+
+This app was built with React as the Capstone project for Codecademy.com's Intensive Front-End Web Developer course.
+
+A live demo of my version of this Codecademy Project / App was successfully deployed with Surge and can be viewed at this link: http://dragon_dance.surge.sh
+
+# Functionality:
+Individual songs/tracks can be both added and removed from the New Playlist by using the corresponding + and - buttons. Playlist titles may be renamed and each playlist will be successfully saved to the user's account as soon as they click the "Save Playlist" button.
 
 # Authors
 - Project: Codecademy.com
 - This Project Build: Alissa Troiano
 
-# Overview
-This application was built with React as a project for Codecademy.com's Intensive Front-End Web Developer course.
-
-This application allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account. Individual songs/tracks can be both added and removed from the New Playlist by using the corresponding + and - buttons. Playlist titles may be renamed and each playlist will be successfully saved to the user's account as soon as they click the "Save Playlist" button.
-
-A live demo of my version of this Codecademy Project / App was successfully deployed with Surge and can be viewed at this link: http://dragon_dance.surge.sh
+# Advanced Features
+ In addition to the steps required by Codecademy to complete the project, this build also includes the following features:
+ - Pressing enter triggers a search
+ - Successful deployment using Surge (an optional step)
+ - Custom CSS elements (including a new background palette)
 
 # Requirements
 In order to properly complete this project, the following React skills were utilized:
@@ -31,10 +37,4 @@ In order to properly complete this project, the following React skills were util
 11. Implement Spotify Search Request
 12. Save a User's Playlist
 Step 13 (Deploy) is an optional step that will be refined and included in the next commit for this project.
-
-# Advanced Functionality
- In addition to the steps required by Codecademy to complete the project, this build also includes the following features:
- - Pressing enter triggers a search
- - Successful deployment using Surge (an optional step)
- - Custom CSS elements (including a new background palette)
 
